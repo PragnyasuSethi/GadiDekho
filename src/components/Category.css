@@ -1,0 +1,45 @@
+.category-container {
+  text-align: center;
+  margin-top: 110px;
+  padding: 20px;
+}
+
+.category-title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.car-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.car-item {
+  border: 4px solid #ddd;
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.car-image {
+  width: 100%;
+  height: auto;
+  max-width: 280px;
+  border-radius: 10px;
+}
+
+.car-name {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.car-price {
+  font-size: 20px;
+  color: green;
+  margin-top: 5px;
+}

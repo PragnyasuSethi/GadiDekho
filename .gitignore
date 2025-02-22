@@ -23,6 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 HELP.md
@@ -49,3 +50,5 @@ target/
 ### NetBeans ###
 /nbproject/private/
 >>>>>>> 3aa0576 (Backend Code)
+=======
+>>>>>>> 2399970b892ba1cdd6f6aac53ed873b42cc9551d
