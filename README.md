@@ -17,8 +17,8 @@
 - Spring Boot  
 - MongoDB (for data storage)  
 
-## 🚀 Setup and Installation  
-### 1️⃣ Clone the Repository  
+##  Setup and Installation  
+###  Clone the Repository  
 ```bash
 git clone https://github.com/PragnyasuSethi/gadidekho.git
 cd GadiDekho
