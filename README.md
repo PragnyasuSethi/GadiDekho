@@ -15,7 +15,7 @@
 
 ### **Backend:**  
 - Spring Boot  
-- MongoDB (for data storage)  
+- MySql (for data storage)  
 
 ##  Setup and Installation  
 ###  Clone the Repository  
