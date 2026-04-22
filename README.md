@@ -1,7 +1,9 @@
 # GadiDekho - Find Your Perfect Ride  
 
 ##  Overview  
-**GadiDekho** is a web-based platform where users can explore **cars, bikes, and other vehicles** with their specifications and prices. The platform helps users **to decide** which vehicle best suits their needs, making the buying process more informed and hassle-free.  
+**GadiDekho** is a web-based platform designed to help users explore a wide range of **cars, bikes, and other vehicles** in one place. It provides detailed information about each vehicle, including specifications, features, and pricing, so you can easily compare different options without confusion.
+
+The platform focuses on making your decision process simple and informed. Instead of jumping between multiple sources, you get everything structured and easy to understand. Whether you are looking for performance, budget-friendly options, or specific features, GadiDekho helps you filter and evaluate choices quickly.
 
 ## Features  
 - ✅ **Vehicle Listings**: Browse various cars, bikes, and more.  
@@ -11,7 +13,7 @@
 
 ##  Tech Stack  
 ### **Frontend:**  
-- React.js    
+- React.js  
 
 ### **Backend:**  
 - Spring Boot  
